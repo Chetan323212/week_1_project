@@ -18,7 +18,7 @@ This project focuses on building a **clean, elegant, and interactive login inter
 ---
 
 ## 📸  Vedio Preview
-![Vedio Preview](img/demo.gif)
+![Vedio Preview](https://github.com/Chetan323212/week_1_project/blob/8d7c9085b23f4e6f581e953accdbeaea1e705dee/priview/demo.gif)
 
 ## ✨ Features
 
