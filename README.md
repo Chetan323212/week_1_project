@@ -11,14 +11,14 @@ This project focuses on building a **clean, elegant, and interactive login inter
 
 ---
 For live demo 
-Use Username and password
-  Username: admin
-  Password : 1234
 ## 🚀 Live Demo
 
 🌐  https://chetan323212.github.io/week_1_project/
 ---
-
+Use Username and password
+  Username: admin
+  Password : 1234
+---
 ## 📸  Vedio Preview
 ![Vedio Preview](https://github.com/Chetan323212/week_1_project/blob/8d7c9085b23f4e6f581e953accdbeaea1e705dee/priview/demo.gif)
 
