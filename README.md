@@ -10,7 +10,10 @@ A modern **Luxury Beauty Salon Login Page UI** built using **HTML, CSS, and Java
 This project focuses on building a **clean, elegant, and interactive login interface** inspired by modern beauty brand websites.
 
 ---
-
+For live demo 
+Use Username and password
+  Username: admin
+  Password : 1234
 ## 🚀 Live Demo
 
 🌐  https://chetan323212.github.io/week_1_project/
