@@ -13,8 +13,7 @@ This project focuses on building a **clean, elegant, and interactive login inter
 
 ## 🚀 Live Demo
 
-🌐 https://your-username.github.io/glownest-login-page
-
+🌐  https://chetan323212.github.io/week_1_project/
 ---
 
 ## 📸  Vedio Preview
